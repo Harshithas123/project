@@ -1,0 +1,44 @@
+body{  
+    font-family: cursive, 'Times New Roman', Times, serif, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
+    background-color: rgb(210, 204, 108);  
+    font-size: 20px;  
+    line-height: 1.5;  
+    padding: 0;  
+    margin: 0;  
+   }  
+   * {  
+    box-sizing: border-box;  
+   }  
+   .Pounds{  
+    width:520px;  
+    height: auto;  
+    margin: 100px auto;  
+    background-color: #eee;  
+    border-radius: 25px;  
+   }  
+   .Ounces{  
+    width: 100%;  
+    margin: 0;  
+    overflow: hidden;  
+    display: block;  
+    float: none;  
+   }  
+   .Grams{  
+    width: 135px;  
+    padding: 5px 20px;  
+    margin-left: 20px;  
+    display: inline-block;  
+    font-size: left;  
+   }  
+   .Stones{  
+    font-size: 26px;  
+    text-align: center;  
+    font-family: cursive;  
+    font-weight: normal;  
+    margin-top: 0px;  
+    box-shadow: 0px 2px #bababa;  
+    background: white;  
+    font-size: 34px;  
+    color: rgb(60, 60, 157);  
+   }  
+   
